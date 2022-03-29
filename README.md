@@ -1,2 +1,3 @@
 # web-scraper
-A webscraper tool 
+A webscraper toolthat crawls using specified elements/tags/ids
+
