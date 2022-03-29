@@ -1,0 +1,22 @@
+{
+  "name": "job_crawl",
+  "version": "1.0.0",
+  "description": "A job crawler that searches a given array of websites",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Malik Coleman",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.26.1",
+    "body-parser": "^1.19.2",
+    "ejs": "^3.1.6",
+    "express": "^4.17.3",
+    "node": "^17.7.1",
+    "puppeteer": "^13.5.1"
+  },
+  "devDependencies": {
+    "dotenv": "^16.0.0"
+  }
+}
